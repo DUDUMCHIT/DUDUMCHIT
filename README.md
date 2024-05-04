@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DUDUMCHIT
-- 👀 I’m interested in machine learning & cloud computing & serverless
-- 🌱 I’m currently learning serverless & AWS lambda
-- 💞️ I’m looking to collaborate on ' I don't know yet'
-- 📫 How to reach me ...
+- 🥔 I'm a speaking potato now 
+- 🏃‍♂️ learning react-native(expo) 
 
 <!---
 DUDUMCHIT/DUDUMCHIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
